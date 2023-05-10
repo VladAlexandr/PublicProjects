@@ -3,7 +3,13 @@ This is my first project where I've worked with a real dataset (the matches of M
 
 ## Getting Started
 To get started with this repository, you can simply clone the repository onto your local machine.
-Once you have cloned it, you can navigate to the folder of any project you are interested in and read the associated README.md file to learn more about the project and how it was conducted.
+Once you have cloned it, you can navigate to the folder where it has been saved and check the project's contains, which include:
+- a Jupyter Notebook file with most of the functions / commands used in the analysis
+- a folder with League of Legends champion icons used to displaying on charts
+- a CSV file called 'ESPORTS_DATA' which contains the dataset
 
 ## Contributing
 If you would like to contribute to this repository, please feel free to submit a pull request. Contributions are always welcome, whether they are related to bug fixes, additional features, or new projects. Any feedback is also greatly appreciated, let me know how I can improve!
+
+## Usage:
+This project can be used for any purpose as long as it is properly credited. If you use any part of this project, please include a reference to the original source. This includes, but is not limited to, code snippets, visualizations, and insights.
